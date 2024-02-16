@@ -6,3 +6,4 @@ youtube.googleapis.com
 youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
+rr2---sn-cg51pauxax-jfcd.googlevideo.com
