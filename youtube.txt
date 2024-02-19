@@ -22,3 +22,4 @@ rr3---sn-cg51pauxax-jfcl.googlevideo.com
 rr4---sn-cg51pauxax-jfcs.googlevideo.com
 rr4---sn-cg51pauxax-jfcd.googlevideo.com
 rr4---sn-cg51pauxax-jfcl.googlevideo.com
+rr5---sn-cg51pauxax-jfc6.googlevideo.com
